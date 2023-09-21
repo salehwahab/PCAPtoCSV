@@ -1,2 +1,2 @@
-# PCAP_to_CSV
+# PCAPtoCSV
 Extract features from a network to a CSV file
